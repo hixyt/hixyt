@@ -35,13 +35,9 @@ Currently growing as a developer and designer — turning creativity into real-w
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python" height="60"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,figma,ps,ai" height="60"/>
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ai" height="60"/>
-
-</p>
+</p>>
 ---
 
 ## ✦ Tools
