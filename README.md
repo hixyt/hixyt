@@ -32,20 +32,19 @@ Currently growing as a developer and designer — turning creativity into real-w
 ---
 
 ## ✦ Skills
+## ✦ Skills
 
 <p align="center">
 
+<!-- Development -->
 <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Figma-1e1e2e?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-1e1e2e?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-1e1e2e?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Illustrator-1e1e2e?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+<!-- Design -->
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 
 </p>
-
 ---
 
 ## ✦ Tools
