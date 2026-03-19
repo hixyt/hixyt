@@ -53,18 +53,6 @@ Currently growing as a developer and designer — turning creativity into real-w
 
 ---
 
-## ✦ GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hixyt&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-<sub>Consistency over intensity.</sub>
-</p>
-
----
-
 ## ✦ Note
 
 <p align="center">
