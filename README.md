@@ -44,7 +44,11 @@ Currently growing as a developer and designer — turning creativity into real-w
 ## ✦ Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,git,figma" height="80"/>
+</p>
+
+<p align="center">
+<sub>VS Code • Git • Figma</sub>
 </p>
 
 ---
@@ -52,21 +56,33 @@ Currently growing as a developer and designer — turning creativity into real-w
 ## ✦ GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hixyt&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=hixyt&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+<sub>Consistency over intensity.</sub>
 </p>
 
 ---
 
 ## ✦ Note
 
-> quietly building something bigger than what’s visible.
+<p align="center">
+
+> building quietly. leveling up daily.
+
+</p>
 
 ---
 
 ## ✦ Work With Me
 
-- Freelance projects  
-- Website design & development  
-- Brand identity design  
+<p align="center">
+
+🚀 Freelance Projects  
+🎨 Website Design & Development  
+🧩 Brand Identity Design  
+
+</p>
 
 ---
