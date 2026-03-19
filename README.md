@@ -1,31 +1,28 @@
-<img align="center" src="https://raw.githubusercontent.com/hixyt/hixyt/main/PixeL%C9%91nd%20%E2%97%87.gif"/>
+<img align="center" width="100%" src="https://raw.githubusercontent.com/hixyt/hixyt/main/PixeL%C9%91nd%20%E2%97%87.gif"/>
 
 <h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong> Himani Dalvi (Hix)</strong> 💗
+  Hi, I'm <strong>Himani Dalvi (Hix)</strong> ❄️
 </h1>
 
-<h3>Creative Developer | Web Designer | Brand Identity Builder ✨</h3>
+<h3>Creative Developer | Web Designer | Brand Identity Builder</h3>
 
 <div align="left">
-  <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
   <p>
-    I build clean, aesthetic, and functional digital experiences.  
-    From designing soft, engaging interfaces to developing responsive websites,  
-    I focus on creating products that feel smooth, modern, and user-friendly.
+    I build clean, aesthetic, and functional digital experiences.
+    I enjoy designing interfaces and developing websites that feel smooth,
+    modern, and easy to use.
   </p>
 
   <p>
-    I'm currently growing as a developer and designer — turning creativity into real-world projects,  
-    while building strong skills in web development and brand identity design.
+    Currently growing as a developer and designer, turning ideas into real
+    projects while sharpening my skills in web development and visual design.
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/🌸_Creative_Mind-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/💻_Web_Developer-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🎨_Designer-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🚀_Open_to_Freelance-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Creative_Mind-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Web_Developer-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Designer-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Open_to_Freelance-1e1e2e?style=for-the-badge" />
   </p>
 </div>
 
@@ -33,21 +30,21 @@
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 <p align="center">
 <table>
 <tr>
 <td width="50%" align="center">
 
-<h3>💻 Development</h3>
+<h3>Development</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 
 </td>
 
 <td width="50%" align="center">
 
-<h3>🎨 Design</h3>
+<h3>Design</h3>
 <img src="https://skillicons.dev/icons?i=figma" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Canva-1e1e2e?style=for-the-badge&logo=canva&logoColor=white"/>
@@ -61,35 +58,50 @@
 
 ---
 
-## ✨ What I Do
+## Projects
 
-- 🌐 Build responsive and modern websites  
-- 🎨 Design aesthetic UI/UX interfaces  
-- 💼 Create brand identities (logos, visuals, layouts)  
-- ⚡ Combine creativity + code to build smooth user experiences  
+- 🔹 **Project Name 1**  
+  Short one-line description of what it does  
+  🔗 GitHub / Live Link  
+
+- 🔹 **Project Name 2**  
+  Short one-line description  
+  🔗 GitHub / Live Link  
 
 ---
 
-## 📊 GitHub Stats
+## Tools I Use
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,figma" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Canva-1e1e2e?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-1e1e2e?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Illustrator-1e1e2e?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+</p>
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=hixyt&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 💗 Little Note
+## Note
 
-> I believe consistency > perfection.  
-> I’m building, learning, and evolving — one project at a time.
+> I’m building something bigger than what’s visible right now.
 
 ---
 
-## 🤝 Let’s Work Together
+## Let’s Work Together
 
 Currently open for:
+
 - Freelance projects  
-- Website design & development  
+- Website design and development  
 - Brand identity work  
 
 ---
