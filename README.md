@@ -113,16 +113,6 @@ to build workflows that eliminate repetitive tasks.
 🧩 AI + Web Integration <br/>
 </p>
 
----
-
-## ✦ Note  
-
-<p align="center">
-> building systems. reducing effort. scaling output.
-</p>
-</p>
-
----
 
 ## ✦ Note  
 
