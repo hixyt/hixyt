@@ -10,27 +10,22 @@ A B.Tech student. Most of my projects start with "why am I doing this by hand?"
 
 <br>
 
-<img src="assets/h-projects.svg" height="28" alt="projects"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/h-projects.svg"><img src="assets/light/h-projects.svg" height="28" alt="projects"></picture>
 
-<a href="https://github.com/hixyt/scholars-desk"><img src="assets/icon-book.svg" height="30" alt=""/></a> &nbsp;**[The Scholar's Desk](https://github.com/hixyt/scholars-desk)** &nbsp;<img src="assets/tags-desk.svg" height="22" alt="live, runs daily, free"/><br>
-reads new AI papers every morning and explains them simply · [open the website](https://hixyt.github.io/scholars-desk/)
+<a href="https://hixyt.github.io/scholars-desk/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/proj-desk.svg"><img src="assets/light/proj-desk.svg" alt="The Scholar's Desk (live, daily, free): reads new AI papers every morning and explains them simply"></picture></a>
 
-<a href="https://github.com/hixyt/VELORA-PH1"><img src="assets/icon-pin.svg" height="30" alt=""/></a> &nbsp;**[VELORA](https://github.com/hixyt/VELORA-PH1)** &nbsp;<img src="assets/tags-velora.svg" height="22" alt="built with no code, 6 cities"/><br>
-finds local business leads and scores them with AI, built with no code
+<a href="https://github.com/hixyt/VELORA-PH1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/proj-velora.svg"><img src="assets/light/proj-velora.svg" alt="VELORA (no-code, 6 cities): finds local business leads and scores them with AI"></picture></a>
 
 <br>
 
-<img src="assets/h-tools.svg" height="28" alt="what i use"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/h-tools.svg"><img src="assets/light/h-tools.svg" height="28" alt="what i use"></picture>
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,vscode,figma,ps,ai" height="36" alt="Python, HTML, CSS, JavaScript, Git, VS Code, Figma, Photoshop, Illustrator"/>
-
-<img src="assets/tags-tools.svg" height="22" alt="n8n, gemini, groq, github actions, supabase"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/tools.svg"><img src="assets/light/tools.svg" alt="code: python, html, css, js, git. ai and flows: n8n, gemini, groq, github actions, supabase. design: figma, photoshop, illustrator."></picture>
 
 <br>
 
-<img src="assets/h-contact.svg" height="28" alt="contact me"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/h-contact.svg"><img src="assets/light/h-contact.svg" height="28" alt="contact me"></picture>
 
-<a href="https://www.linkedin.com/in/himani-dalvi-5b68b821b/"><img src="assets/btn-linkedin.svg" height="34" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:himanidalvi4@gmail.com"><img src="assets/btn-email.svg" height="34" alt="Email: himanidalvi4@gmail.com"/></a>&nbsp;
-<a href="https://hixyt.github.io/scholars-desk/"><img src="assets/btn-website.svg" height="34" alt="Website: The Scholar's Desk"/></a>
-
+<a href="https://www.linkedin.com/in/himani-dalvi-5b68b821b/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-linkedin.svg"><img src="assets/light/btn-linkedin.svg" height="40" alt="LinkedIn"></picture></a>&nbsp;
+<a href="mailto:himanidalvi4@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-email.svg"><img src="assets/light/btn-email.svg" height="40" alt="Email: himanidalvi4@gmail.com"></picture></a>&nbsp;
+<a href="https://hixyt.github.io/scholars-desk/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-website.svg"><img src="assets/light/btn-website.svg" height="40" alt="Website: The Scholar's Desk"></picture></a>
