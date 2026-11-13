@@ -6,7 +6,7 @@
 
 A B.Tech student. Most of my projects start with "why am I doing this by hand?"
 
-<img src="assets/snow-scene.svg" width="100%" alt="Pixel art: fairy lights, snowy trees and a snowman. My black dog runs in, I follow, we stop in the snow and a heart pops up."/>
+<img src="assets/snow-trees.svg" width="100%" alt="Pixel art: snowy trees wrapped in fairy lights and a snowman. My black dog runs in, I follow, we stop in the snow and a heart pops up."/>
 
 <br>
 
