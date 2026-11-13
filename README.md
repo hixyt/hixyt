@@ -4,9 +4,9 @@
 
 <img src="assets/typing.svg" height="34" alt="I build AI automations that do the boring work, and I like them to look good too."/>
 
-I study AI and Data Science in Nagpur, and I like making small tools that work on their own, quietly, every day.
+A B.Tech student. Most of my projects start with "why am I doing this by hand?"
 
-<img src="assets/train.svg" width="100%" alt=""/>
+<img src="assets/train.svg" width="100%" alt="Pixel art: a slow train passes, and behind it I'm playing in the snow with my black dog."/>
 
 ### Projects
 
@@ -25,15 +25,10 @@ I study AI and Data Science in Nagpur, and I like making small tools that work o
 n8n, Gemini, Groq and GitHub Actions for the automation side.
 </details>
 
-<details>
-<summary><b>Right now</b></summary>
-<br>
+### Contact me
 
-- Adding new things to The Scholar's Desk
-- Google Cloud skill badges, 7 done
-- Open to freelance n8n work
-</details>
+<img src="assets/snowflake.svg" height="12" alt=""> &nbsp;LinkedIn · [himani-dalvi](https://www.linkedin.com/in/himani-dalvi-5b68b821b/)
 
-<br>
+<img src="assets/snowflake.svg" height="12" alt=""> &nbsp;Email · [himanidalvi4@gmail.com](mailto:himanidalvi4@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/himani-dalvi-5b68b821b/) · [The Scholar's Desk](https://hixyt.github.io/scholars-desk/)
+<img src="assets/snowflake.svg" height="12" alt=""> &nbsp;Website · [The Scholar's Desk](https://hixyt.github.io/scholars-desk/)
