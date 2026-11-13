@@ -27,4 +27,4 @@ A B.Tech student. Most of my projects start with "why am I doing this by hand?"
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/h-contact.svg"><img src="assets/light/h-contact.svg" height="28" alt="contact me"></picture>
 
 <a href="https://www.linkedin.com/in/himani-dalvi-5b68b821b/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-linkedin.svg"><img src="assets/light/btn-linkedin.svg" height="40" alt="LinkedIn"></picture></a>&nbsp;
-<a href="mailto:himanidalvi4@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-email.svg"><img src="assets/light/btn-email.svg" height="40" alt="Email: himanidalvi4@gmail.com"></picture></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=himanidalvi4@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-email.svg"><img src="assets/light/btn-email.svg" height="40" alt="Email: himanidalvi4@gmail.com"></picture></a>
