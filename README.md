@@ -2,7 +2,7 @@
 
 ## Hi, I'm Himani Dalvi (HiX) ❄️
 
-<img src="assets/typing.svg" height="34" alt="I build AI automations that do the boring work, and I like them to look good too."/>
+<img src="assets/typing.svg" height="36" alt="i build ai automations that do the boring work. always learning, always building. one small project at a time."/>
 
 A B.Tech student. Most of my projects start with "why am I doing this by hand?"
 
