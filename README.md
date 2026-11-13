@@ -34,6 +34,3 @@ finds local business leads and scores them with AI, built with no code
 <a href="mailto:himanidalvi4@gmail.com"><img src="assets/btn-email.svg" height="34" alt="Email: himanidalvi4@gmail.com"/></a>&nbsp;
 <a href="https://hixyt.github.io/scholars-desk/"><img src="assets/btn-website.svg" height="34" alt="Website: The Scholar's Desk"/></a>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=hixyt&label=visitors&color=6E9BD4&style=flat-square" alt="visitors"/>
