@@ -1,1 +1,1 @@
-The pixel fonts inside these SVGs are Press Start 2P, Pixelify Sans and Silkscreen, used under the SIL Open Font License 1.1.
+The pixel font inside typing.svg is Pixelify Sans, used under the SIL Open Font License 1.1.
